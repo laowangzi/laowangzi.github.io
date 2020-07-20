@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
+title: Toby Hu
 subtitle:
-description: wublub dubda
-author: Logos
+description: So Funny
+author: Toby Hu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-since: 2018
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -216,8 +216,8 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
+    GitHub: https://github.com/laowangzi
+    School: http://www.scse.uestc.edu.cn/
 
 
 # Social Links Icons
