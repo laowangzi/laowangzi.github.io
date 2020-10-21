@@ -43,7 +43,7 @@ Processing.LabelEncoder,用法与建立模型相同（三部曲）。在fit数�
 ####特征标签
 Processing.OrdinalEncoder.
 ###独热编码
-preprocessing.OneHotEncoder用来编码数字无法准确表达的变量。比如‘小学=1，初中=2，高中=3’这样编码**不合适**，无法说‘高中-初中=小学’，此时就需要独热编码。在转换后需要.toarry（）
+preprocessing.OneHotEncoder用来编码数字无法准确表达的变量。比如‘红=1，黄=2，蓝=3’这样labelencoder编码**不合适**。独热编码就是一个比特代表一类，比如红黄蓝可用三位001来标识，这样避免出现偏序性影响算法效果。在转换后需要.toarry（）
 ###二值化和分段
 ####二值化
 将特征值设置为0和1。preprocessing.Binarizer。在实例化时使用threshhold参数设定阈值。
