@@ -1,6 +1,6 @@
 ---
 published: true
-title:leetcode-0ffer_14从思路到数学建模
+title: leetcode-0ffer_14从思路到数学建模
 category: algorithm
 tags: 
   - leetcode
