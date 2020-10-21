@@ -1,6 +1,6 @@
 ---
 published: true
-title： leetcode大数问题解决方案
+title: leetcode大数问题解决方案
 category: algorithm
 tags: 
   - leetcode
